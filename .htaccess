@@ -1,0 +1,6 @@
+Options +FollowSymlinks -MultiViews
+RewriteEngine On
+
+    DirectoryIndex         pages/index.php    
+
+    RewriteRule ^([a-zA-Z]+)$  pages/$1.php
