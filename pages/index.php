@@ -483,9 +483,9 @@
                <div class="col-lg-8">
                   <div class="bd-section-title-wrapper text-center mb-55 wow fadeInUp" data-wow-duration="1s"
                      data-wow-delay=".2s">
-                     <h2 class="bd-section-title mb-0">Our Programs</h2>
-                     <p>Kindedo opened its doors in 1984 with a unique vision to provide its students<br> with a
-                        globally focused study of arts.</p>
+                     <h2 class="bd-section-title mb-0">Nos cibles</h2>
+                     <p>Kangourou vise les élèves , les professeurs particuliers<br> et les
+                        parent</p>
                   </div>
                </div>
             </div>
@@ -499,7 +499,7 @@
                               <div class="bd-program-thumb-wrapper">
                                  <a href="program-details.html">
                                     <div class="bd-program-thumb">
-                                       <img src="assets/img/program/home-program-1.jpg" alt="Image not found">
+                                       <img src="assets/img/program/images.jpg" alt="Image not found">
                                     </div>
                                  </a>
                                  <div class="bd-program-shape">
@@ -514,19 +514,22 @@
                               </div>
                               <div class="bd-program-content mb-30">
                                  <h3 class="bd-program-title"><a class="hover-clr-1"
-                                       href="program-details.html">Settling</a>
+                                       href="program-details.html">élèves</a>
                                  </h3>
-                                 <p>To round out our weekend of celebra tions, we are holding our reunion.</p>
+                                 <p>Le services kangourou est destiné pour un debut aux élève du sous système francophone
+                                    du primaire et du secondaire de l'enseignement général. <br>
+                                 Les élève ayant des lacunes, ceux desirant ameliorer d'avantage leur niveau, les candidats libres pourront grâces a Kangourou ameliorer leurs perfomances 
+                              scolaire </p>
                               </div>
                               <div class="bd-program-info-wrapper theme-bg">
                                  <div class="bd-program-info">
-                                    <h5 class="bd-program-info-title">4-5 Yrs <br><span>age</span></h5>
+                                    <h5 class="bd-program-info-title">5-18  ans<br><span>age</span></h5>
                                  </div>
                                  <div class="bd-program-info">
-                                    <h5 class="bd-program-info-title">5 Days <br><span>weekly</span></h5>
+                                    <h5 class="bd-program-info-title">6 jour <br><span>hebdommadaire</span></h5>
                                  </div>
                                  <div class="bd-program-info">
-                                    <h5 class="bd-program-info-title">3.30 Hrs<br><span>period</span></h5>
+                                    <h5 class="bd-program-info-title">3 Heures<br><span>periode</span></h5>
                                  </div>
                               </div>
                            </div>
@@ -536,7 +539,7 @@
                               <div class="bd-program-thumb-wrapper">
                                  <a href="program-details.html">
                                     <div class="bd-program-thumb">
-                                       <img src="assets/img/program/home-program-2.jpg" alt="Image not found">
+                                       <img src="assets/img/program/Untitled3.jpg" alt="Image not found">
                                     </div>
                                  </a>
                                  <div class="bd-program-shape">
@@ -551,21 +554,24 @@
                                  </div>
                               </div>
                               <div class="bd-program-content mb-30">
-                                 <h3 class="bd-program-title"><a class="hover-clr-2" href="program-details.html">Play
-                                       Group</a>
+                                 <h3 class="bd-program-title"><a class="hover-clr-2" href="program-details.html">Enseignants
+                                       </a>
                                  </h3>
-                                 <p>We will be magically transform the School’s Sports Centre into a full game area.
+                                 <p>Etant un services de placement , Kangourou s'adresse aussi aux professeurs particuliers ayant 
+                                    le désir et les competences de transmettre leur savoirs . <br>
+                                    grâce a kangourou les compétences de chaque professeurs seront mises a a mise a la mise a la disposition des eleves
+                                    ayant le lus besoins base sur les difficulte reelles
                                  </p>
                               </div>
                               <div class="bd-program-info-wrapper theme-bg-2">
                                  <div class="bd-program-info">
-                                    <h5 class="bd-program-info-title">4-5 Yrs <br><span>age</span></h5>
+                                    <h5 class="bd-program-info-title">25-60 ans <br><span>age</span></h5>
                                  </div>
                                  <div class="bd-program-info">
-                                    <h5 class="bd-program-info-title">5 Days <br><span>weekly</span></h5>
+                                    <h5 class="bd-program-info-title">5 Days <br><span>hebdommadaire</span></h5>
                                  </div>
                                  <div class="bd-program-info">
-                                    <h5 class="bd-program-info-title">3.30 Hrs<br><span>period</span></h5>
+                                    <h5 class="bd-program-info-title">2 heures<br><span>periode</span></h5>
                                  </div>
                               </div>
                            </div>
@@ -575,7 +581,7 @@
                               <div class="bd-program-thumb-wrapper">
                                  <a href="program-details.html">
                                     <div class="bd-program-thumb">
-                                       <img src="assets/img/program/home-program-3.jpg" alt="Image not found">
+                                       <img src="assets/img/program/Untitled.jpg" alt="Image not found">
                                     </div>
                                  </a>
                                  <div class="bd-program-shape">
@@ -591,19 +597,21 @@
                               </div>
                               <div class="bd-program-content mb-30">
                                  <h3 class="bd-program-title"><a href="program-details.html"
-                                       class="hover-clr-3">Pre-Nursery</a>
+                                       class="hover-clr-3">Parent</a>
                                  </h3>
-                                 <p>Kindedo not only for all our dedicated 2023 reunion year groups program.</p>
+                                 <p><br> <br>Kangourou est destiné d'une certaines facon aux parents. <br>
+                                 ceux ci etant souvent tres pris par leur obligation professionnels , meme avec toute la bonnes volonte 
+                                 , se retrouve dans l'incapacite de tenir de la meilleures des meilleures l'education scolaire de leur tout petit </p>
                               </div>
                               <div class="bd-program-info-wrapper theme-bg-3">
                                  <div class="bd-program-info">
-                                    <h5 class="bd-program-info-title">4-5 Yrs <br><span>age</span></h5>
+                                    <h5 class="bd-program-info-title">illimité d'année   <br><span>age</span></h5>
                                  </div>
                                  <div class="bd-program-info">
-                                    <h5 class="bd-program-info-title">5 Days <br><span>weekly</span></h5>
+                                    <h5 class="bd-program-info-title"> temps disponible <br><span>hebdomadaire</span></h5>
                                  </div>
                                  <div class="bd-program-info">
-                                    <h5 class="bd-program-info-title">3.30 Hrs<br><span>period</span></h5>
+                                    <h5 class="bd-program-info-title">temps disponibles<br><span>periode</span></h5>
                                  </div>
                               </div>
                            </div>
@@ -626,8 +634,8 @@
                   <div class="bd-faq-content mb-60">
                      <div class="bd-section-title-wrapper mb-25 wow fadeInLeft" data-wow-duration="1s"
                         data-wow-delay=".3s">
-                        <h2 class="bd-section-title mb-0">Know More
-                           <br>About Kindedo
+                        <h2 class="bd-section-title mb-0"> savoir plus à
+                           <br>propos de kangourou
                         </h2>
                      </div>
                      <div class="bd-faq wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">
@@ -636,7 +644,7 @@
                               <h2 class="accordion-header" id="headingOne">
                                  <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    What is the best age to start Kindergarten?
+                                    Quels types de groupes de répétitions nous allons proposer aux élèves ? 
                                  </button>
                               </h2>
                               <div id="collapseOne" class="accordion-collapse collapse show"
@@ -651,7 +659,7 @@
                               <h2 class="accordion-header" id="headingTwo">
                                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    Which is the best preschool for your child ?
+                                    Quels seront les horaires et la durée des sessions de répétitions ?
                                  </button>
                               </h2>
                               <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
@@ -667,7 +675,7 @@
                               <h2 class="accordion-header" id="headingThree">
                                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    What is the toution fee on first year?
+                                    Quels seront les tarifs et les modalités de paiement pour les élèves 
                                  </button>
                               </h2>
                               <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
@@ -722,14 +730,13 @@
                      <div class="bd-joining-content text-center wow fadeInUp" data-wow-duration="1s"
                         data-wow-delay=".3s">
                         <div class="bd-section-title-wrapper is-white mb-45">
-                           <h2 class="bd-section-title mb-0">Join Our New Session</h2>
-                           <p>Kindedo believes that good questions drive good answers. Whether it's a query<br> about
-                              the world around us or a challenge.</p>
+                           <h2 class="bd-section-title mb-0">Rejoignez KANGOUROU</h2>
+                           <p>vos besoins et vos attentes est une priorité pour nous .</p>
                         </div>
                         <a href="classes.html" class="bd-btn btn-white">
                            <span class="bd-btn-inner">
-                              <span class="bd-btn-normal">Apply now</span>
-                              <span class="bd-btn-hover">Apply now</span>
+                              <span class="bd-btn-normal"> Rejoindre maintenant</span>
+                              <span class="bd-btn-hover">Rejoindre maintenant</span>
                            </span>
                         </a>
                      </div>
