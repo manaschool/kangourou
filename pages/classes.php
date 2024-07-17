@@ -79,7 +79,7 @@
                         <div class="bd-breadcrumb-content text-center">
                            <h1 class="bd-breadcrumb-title">Classes</h1>
                            <div class="bd-breadcrumb-list">
-                              <span><a href="index.html"><i class="flaticon-hut"></i>Kindedo</a></span>
+                              <span><a href="index.html"><i class="flaticon-hut"></i>KANGOUROU</a></span>
                               <span>Classes</span>
                            </div>
                         </div>
@@ -106,8 +106,8 @@
                         <img src="assets/img/class/6.jpg" alt="class image not found!">
                      </div>
                      <div class="bd-class-content-3 theme-bg-6 ">
-                        <h3 class="bd-class-title-3"><a href="class-details.html">Sports Class</a></h3>
-                        <p class="mb-20">Each day at Mother’s Pride is a cele bration! We celebrate all.</p>
+                        <h3 class="bd-class-title-3"><a href="class-details.html"> SIL jusqu'au CM2</a></h3>
+                        <p class="mb-20">Les cours seront axés sur la maîtrise de la lecture, de l'écriture, du calcul mental pour les plus petits, et sur les initiations et la maîtrise des techniques de mémorisation pour les plus grands .</p>
                         <div class="bd-class-meta-wrapper d-flex justify-content-between align-items-center flex-wrap">
                            <div class="bd-class-meta d-flex align-items-center flex-wrap">
                               <div class="bd-class-meta-thumb">
@@ -119,13 +119,13 @@
                            </div>
                            <div class="bd-class-meta">
                               <div class="bd-class-meta-price">
-                                 <span>$190/</span>month
+                                 <span>30000 franc /</span>mois
                               </div>
                            </div>
                         </div>
                      </div>
                      <div class="bd-class-btn-3 theme-bg-2 text-center">
-                        <a href="class-details.html">Join Now</a>
+                        <a href="class-details.html">Adhérer maintenant</a>
                      </div>
                   </div>
                </div>
@@ -136,8 +136,8 @@
                         <img src="assets/img/class/5.jpg" alt="class image not found!">
                      </div>
                      <div class="bd-class-content-3 theme-bg-6 ">
-                        <h3 class="bd-class-title-3"><a href="class-details.html">Music Class</a></h3>
-                        <p class="mb-20">Each day at Mother’s Pride is a cele bration! We celebrate all.</p>
+                        <h3 class="bd-class-title-3"><a href="class-details.html">6eme et 5eme</a></h3>
+                        <p class="mb-20">Inscrits dans un tout nouveau système, il s'agira ici de les orienter dans la gestion de leur emploi du temps d'étude et par la suite de répondre efficacement à leurs préoccupations. <br><br>.</p>
                         <div class="bd-class-meta-wrapper d-flex justify-content-between align-items-center flex-wrap">
                            <div class="bd-class-meta d-flex align-items-center flex-wrap">
                               <div class="bd-class-meta-thumb">
@@ -149,13 +149,13 @@
                            </div>
                            <div class="bd-class-meta">
                               <div class="bd-class-meta-price">
-                                 <span>$190/</span>month
+                                 <span>50000  franc/</span>mois
                               </div>
                            </div>
                         </div>
                      </div>
                      <div class="bd-class-btn-3 theme-bg-2 text-center">
-                        <a href="class-details.html">Join Now</a>
+                        <a href="class-details.html">Adhérer maintenant</a>
                      </div>
                   </div>
                </div>
@@ -166,8 +166,8 @@
                         <img src="assets/img/class/4.jpg" alt="class image not found!">
                      </div>
                      <div class="bd-class-content-3 theme-bg-6">
-                        <h3 class="bd-class-title-3"><a href="class-details.html">Drawing Class</a></h3>
-                        <p class="mb-20">Each day at Mother’s Pride is a cele bration! We celebrate all.</p>
+                        <h3 class="bd-class-title-3"><a href="class-details.html">4eme et 3eme</a></h3>
+                        <p class="mb-20">Déjà assez expérimentés, les élèves de ce niveau se heurtent à des difficultés majeures dans certaines matières sensibles (mathématiques, physique-chimie et technologie, sciences de la vie et de la Terre, français, anglais). Avec l'aide de nos professeurs particuliers dévoués et compétents, ils seront capables, grâce à des astuces, de surmonter eux-mêmes leurs lacunes.</p>
                         <div class="bd-class-meta-wrapper d-flex justify-content-between align-items-center flex-wrap">
                            <div class="bd-class-meta d-flex align-items-center flex-wrap">
                               <div class="bd-class-meta-thumb">
@@ -179,13 +179,13 @@
                            </div>
                            <div class="bd-class-meta">
                               <div class="bd-class-meta-price">
-                                 <span>$190/</span>month
+                                 <span>70000 franc/</span>mois
                               </div>
                            </div>
                         </div>
                      </div>
                      <div class="bd-class-btn-3 theme-bg-2 text-center">
-                        <a href="class-details.html">Join Now</a>
+                        <a href="class-details.html">Adhérer maintenant</a>
                      </div>
                   </div>
                </div>
@@ -196,8 +196,8 @@
                         <img src="assets/img/class/3.jpg" alt="class image not found!">
                      </div>
                      <div class="bd-class-content-3 theme-bg-6 ">
-                        <h3 class="bd-class-title-3"><a href="class-details.html">Languase Class</a></h3>
-                        <p class="mb-20">Each day at Mother’s Pride is a cele bration! We celebrate all.</p>
+                        <h3 class="bd-class-title-3"><a href="class-details.html">2nd</a></h3>
+                        <p class="mb-20">Classes préparatoires aux examens nationaux, la seconde est une classe délicate. Les professeurs auront pour objectif d'asseoir leurs compétences dans le cerveau des apprentis.</p>
                         <div class="bd-class-meta-wrapper d-flex justify-content-between align-items-center flex-wrap">
                            <div class="bd-class-meta d-flex align-items-center flex-wrap">
                               <div class="bd-class-meta-thumb">
@@ -209,13 +209,13 @@
                            </div>
                            <div class="bd-class-meta">
                               <div class="bd-class-meta-price">
-                                 <span>$190/</span>month
+                                 <span>80000 franc/</span>mois
                               </div>
                            </div>
                         </div>
                      </div>
                      <div class="bd-class-btn-3 theme-bg-2 text-center">
-                        <a href="class-details.html">Join Now</a>
+                        <a href="class-details.html">Adhérer maintenant</a>
                      </div>
                   </div>
                </div>
@@ -226,8 +226,8 @@
                         <img src="assets/img/class/1.jpg" alt="class image not found!">
                      </div>
                      <div class="bd-class-content-3 theme-bg-6 ">
-                        <h3 class="bd-class-title-3"><a href="class-details.html">Hospitality Class</a></h3>
-                        <p class="mb-20">Each day at Mother’s Pride is a cele bration! We celebrate all.</p>
+                        <h3 class="bd-class-title-3"><a href="class-details.html">1ere</a></h3>
+                        <p class="mb-20">"Classes des différents concours et examens nationaux, les cours y seront plus intensifs. Les professeurs particuliers s'attelleront à faire ressortir le meilleur de vos enfants, pour une réussite garantie en fin d'année.</p>
                         <div class="bd-class-meta-wrapper d-flex justify-content-between align-items-center flex-wrap">
                            <div class="bd-class-meta d-flex align-items-center flex-wrap">
                               <div class="bd-class-meta-thumb">
@@ -239,13 +239,13 @@
                            </div>
                            <div class="bd-class-meta">
                               <div class="bd-class-meta-price">
-                                 <span>$190/</span>month
+                                 <span>90000 franc/</span>mois
                               </div>
                            </div>
                         </div>
                      </div>
                      <div class="bd-class-btn-3 theme-bg-2 text-center">
-                        <a href="class-details.html">Join Now</a>
+                        <a href="class-details.html">Adhérer maintenant</a>
                      </div>
                   </div>
                </div>
@@ -256,8 +256,8 @@
                         <img src="assets/img/class/2.jpg" alt="class image not found!">
                      </div>
                      <div class="bd-class-content-3 theme-bg-6 ">
-                        <h3 class="bd-class-title-3"><a href="class-details.html">Talented Explorer</a></h3>
-                        <p class="mb-20">Each day at Mother’s Pride is a cele bration! We celebrate all.</p>
+                        <h3 class="bd-class-title-3"><a href="class-details.html">Tle</a></h3>
+                        <p class="mb-20">."Classes des différents concours et examens nationaux, les cours y seront plus intensifs. Les professeurs particuliers s'attelleront à faire ressortir le meilleur de vos enfants, pour une réussite garantie en fin d'année</p>
                         <div class="bd-class-meta-wrapper d-flex justify-content-between align-items-center flex-wrap">
                            <div class="bd-class-meta d-flex align-items-center flex-wrap">
                               <div class="bd-class-meta-thumb">
@@ -269,13 +269,13 @@
                            </div>
                            <div class="bd-class-meta">
                               <div class="bd-class-meta-price">
-                                 <span>$190/</span>month
+                                 <span>100000 franc/</span>month
                               </div>
                            </div>
                         </div>
                      </div>
                      <div class="bd-class-btn-3 theme-bg-2 text-center">
-                        <a href="class-details.html">Join Now</a>
+                        <a href="class-details.html">Adhérer maintenant</a>
                      </div>
                   </div>
                </div>
@@ -294,7 +294,7 @@
                <div class="col-lg-8">
                   <div class="bd-section-title-wrapper is-white z-index-1 p-relative text-center mb-55 wow fadeInUp"
                      data-wow-duration="1s" data-wow-delay=".3s">
-                     <h2 class="bd-section-title mb-0">Parents Says</h2>
+                     <h2 class="bd-section-title mb-0">Nos avis </h2>
                      <p>With the help of teachers and the environment as the third teacher, students<br> have
                         opportunities to confidently take risks.</p>
                   </div>
@@ -376,7 +376,7 @@
                   <div class="bd-promotion bd-promotion-2 mb-60 wow fadeInLeft" data-wow-duration="1s"
                      data-wow-delay=".3s">
                      <div class="bd-section-title-wrapper mb-35">
-                        <h2 class="bd-section-title mb-10">Health and Safety</h2>
+                        <h2 class="bd-section-title mb-10">Santé et sécurité</h2>
                         <span class="mb-10 d-inline-block">
                            Some states and countries implement mandatory early childhood education
                            such rules, many preschool.

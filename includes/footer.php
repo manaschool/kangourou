@@ -11,8 +11,7 @@
                            <a href="index.html"> <img src="assets/img/logo/logo.svg" alt="img not found!"></a>
                         </div>
                         <div class="bd-footer-widget-content mb-40">
-                           <p>In our Adult Participation programs, for most students, it is their first program in
-                              Kindedo. </p>
+                           <p>vos besoins et vos attentes sont nos objectif. </p>
                         </div>
                         <div class="bd-footer-bottom-social pb-20">
                            <ul>
@@ -32,7 +31,7 @@
                         <div class="bd-footer-widget-content">
                            <h4 class="bd-footer-widget-title mb-30">Liens Rapides</h4>
                            <div class="bd-footer-list">
-                              <ul>
+                              <ul  style="list-style-type: square;">
                                  <li><a href="about">Á Propos</a></li>
                                  <li><a href="service">Services</a></li>
                                  <li><a href="boutique">Boutique</a></li>
@@ -47,9 +46,9 @@
                         <div class="bd-footer-widget-content">
                            <h4 class="bd-footer-widget-title mb-30">Services</h4>
                            <div class="bd-footer-list">
-                              <ul>
+                              <ul  style="list-style-type: square;">
                                  <li><a href="#">Cours de Soutien à Domicile</a></li>
-                                 <li><a href="#">Groupe d'Étude</a></li>
+                                 <li><a href="#">Groupe d'étude </a></li>
                                  <li><a href="#">Soutien Psychologique</a></li>
                                  <!-- <li><a href="#">Senior Kg</a></li>
                                  <li><a href="#">Holiday Camp</a></li>

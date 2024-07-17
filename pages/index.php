@@ -233,6 +233,9 @@
          </div>
          <div class="container">
             <div class="bd-hero-inner-3">
+
+
+
                <div class="bd-hero-shape-wrapper d-none d-lg-block">
                   <div class="bd-hero-3-shape-2">
                      <img src="assets/img/shape/curved-line-2.png" alt="Shape not found">
@@ -294,8 +297,8 @@
                <div class="col-lg-8">
                   <div class="bd-section-title-wrapper text-center mb-55 wow fadeInUp" data-wow-duration="1s"
                      data-wow-delay=".2s">
-                     <h2 class="bd-section-title mb-0">Les classes Que nous tenons</h2>
-                     <p> Nous Fournisons un soutien scolaire adapté et de qualité pour chaque élève. Nous croyons que chaque enfant mérite l'opportunité de réussir grâce à un accompagnement personnalisé</p>
+                     <h2 class="bd-section-title mb-0">Les classes que nous tenons</h2>
+                     <p> Nous fournissons un soutien scolaire adapté et de qualité pour chaque élève. Nous croyons que chaque enfant mérite l'opportunité de réussir grâce à un accompagnement personnalisé.</p>
                   </div>
                </div>
             </div>
@@ -321,8 +324,8 @@
                                     <div class="bd-class-btn">
                                        <a href="class-details.html" class="bd-btn bd-btn-grey">
                                           <span class="bd-btn-inner">
-                                             <span class="bd-btn-normal">View Details</span>
-                                             <span class="bd-btn-hover">View Details</span>
+                                             <span class="bd-btn-normal">Voir les détails</span>
+                                             <span class="bd-btn-hover">Voir les détails</span>
                                           </span>
                                        </a>
                                     </div>
@@ -343,12 +346,13 @@
                                  </div>
                                  <div class="bd-class-content">
                                     <h3 class="bd-class-title"><a href="class-details.html">Classes (6e à 3e)</a></h3>
-                                    <p>Pour les collégiens, Kangourou offre un programme ciblé pour renforcer les matières principales et préparer aux examens de fin d'année.</p>
+                                    <p>Pour les collégiens, Kangourou offre un programme ciblé, afin d'améliorer les compétences des élèves 
+                                       sur les matières principales, pour une meilleure préparation aux examens de fin d'année.</p>
                                     <div class="bd-class-btn">
                                        <a href="class-details.html" class="bd-btn bd-btn-grey">
                                           <span class="bd-btn-inner">
-                                             <span class="bd-btn-normal">View Details</span>
-                                             <span class="bd-btn-hover">View Details</span>
+                                             <span class="bd-btn-normal">Voir les détails</span>
+                                             <span class="bd-btn-hover">Voir les détails</span>
                                           </span>
                                        </a>
                                     </div>
@@ -373,8 +377,8 @@
                                     <div class="bd-class-btn">
                                        <a href="class-details.html" class="bd-btn bd-btn-grey">
                                           <span class="bd-btn-inner">
-                                             <span class="bd-btn-normal">View Details</span>
-                                             <span class="bd-btn-hover">View Details</span>
+                                             <span class="bd-btn-normal">Voir les détails</span>
+                                             <span class="bd-btn-hover">Voir les détails</span>
                                           </span>
                                        </a>
                                     </div>
@@ -415,7 +419,7 @@
                   <div class="bd-promotion mb-60 wow fadeInRight" data-wow-duration="1s" data-wow-delay=".3s">
                      <div class="bd-section-title-wrapper mb-35">
                         <h2 class="bd-section-title mb-10">Notre mission première</h2>
-                        <p>Chez Kangourou, nous nous engageons à offrir un soutien scolaire personnalisé et de qualité pour chaque élève. Notre mission est d'aider chaque enfant à surmonter ses difficultés académiques et à réaliser son plein potentiel grâce à un accompagnement individualisé à domicile.</p>
+                        <p>Chez Kangourou, nous nous engageons à offrir un soutien scolaire personnalisé et de qualité pour chaque élève. Notre mission est d'aider chaque enfant à surmonter ses difficultés académiques et à développer son plein potentiel grâce à un accompagnement individualisé à domicile.</p>
                      </div>
                      <div class="bd-promotion-counter-wrapper mb-40">
                         <div class="bd-promotion-counter">
@@ -429,7 +433,7 @@
                         </div>
                         <div class="bd-promotion-counter">
                            <div class="bd-promotion-counter-number">
-                              <p><span><span class="counter">200</span></span>+</p>
+                              <p><span><span class="counter">100</span></span>+</p>
                            </div>
                            <div class="bd-promotion-counter-text"> 
                            
@@ -439,7 +443,7 @@
                         </div>
                         <div class="bd-promotion-counter">
                            <div class="bd-promotion-counter-number">
-                              <p><span class="counter">100</span>+</p>
+                              <p><span class="counter">60</span>+</p>
                            </div>
                            <div class="bd-promotion-counter-text">
                               <span>Enseignant</span>
@@ -484,8 +488,7 @@
                   <div class="bd-section-title-wrapper text-center mb-55 wow fadeInUp" data-wow-duration="1s"
                      data-wow-delay=".2s">
                      <h2 class="bd-section-title mb-0">Nos cibles</h2>
-                     <p>Kangourou vise les élèves , les professeurs particuliers<br> et les
-                        parent</p>
+                     <p> kangourou travaille en symbiose avec les apprenants , les parents. <br>et les professeurs particuliers.</p>
                   </div>
                </div>
             </div>
@@ -514,12 +517,10 @@
                               </div>
                               <div class="bd-program-content mb-30">
                                  <h3 class="bd-program-title"><a class="hover-clr-1"
-                                       href="program-details.html">élèves</a>
+                                       href="program-details.html">&Eacute;lèves</a>
                                  </h3>
-                                 <p>Le services kangourou est destiné pour un debut aux élève du sous système francophone
-                                    du primaire et du secondaire de l'enseignement général. <br>
-                                 Les élève ayant des lacunes, ceux desirant ameliorer d'avantage leur niveau, les candidats libres pourront grâces a Kangourou ameliorer leurs perfomances 
-                              scolaire </p>
+                                 <p>Le service Kangourou est destiné dès le début aux élèves du sous-système francophone du primaire et du secondaire de l'enseignement général. <br>
+                                 </p>
                               </div>
                               <div class="bd-program-info-wrapper theme-bg">
                                  <div class="bd-program-info">
@@ -557,10 +558,8 @@
                                  <h3 class="bd-program-title"><a class="hover-clr-2" href="program-details.html">Enseignants
                                        </a>
                                  </h3>
-                                 <p>Etant un services de placement , Kangourou s'adresse aussi aux professeurs particuliers ayant 
-                                    le désir et les competences de transmettre leur savoirs . <br>
-                                    grâce a kangourou les compétences de chaque professeurs seront mises a a mise a la mise a la disposition des eleves
-                                    ayant le lus besoins base sur les difficulte reelles
+                                 <p>Étant un service de placement, Kangourou s'adresse aussi aux professeurs particuliers ayant le désir et les compétences de transmettre leur savoir. <br>
+                                    
                                  </p>
                               </div>
                               <div class="bd-program-info-wrapper theme-bg-2">
@@ -599,9 +598,8 @@
                                  <h3 class="bd-program-title"><a href="program-details.html"
                                        class="hover-clr-3">Parent</a>
                                  </h3>
-                                 <p><br> <br>Kangourou est destiné d'une certaines facon aux parents. <br>
-                                 ceux ci etant souvent tres pris par leur obligation professionnels , meme avec toute la bonnes volonte 
-                                 , se retrouve dans l'incapacite de tenir de la meilleures des meilleures l'education scolaire de leur tout petit </p>
+                                 <p>Kangourou est destiné d'une certaine façon aux parents. Ceux-ci étant souvent très pris par leurs obligations professionnelles, même avec toute la bonne volonté, se retrouvent dans l'incapacité 
+                                    de tenir de la meilleure des manières l'éducation scolaire de leur tout-petit. </p>
                               </div>
                               <div class="bd-program-info-wrapper theme-bg-3">
                                  <div class="bd-program-info">
@@ -644,14 +642,17 @@
                               <h2 class="accordion-header" id="headingOne">
                                  <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    Quels types de groupes de répétitions nous allons proposer aux élèves ? 
+                                    Quels types de groupes de repetitions  nous allons proposer aux élèves ? 
                                  </button>
                               </h2>
                               <div id="collapseOne" class="accordion-collapse collapse show"
                                  aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                  <div class="accordion-body">
-                                    <p>Some states and countries implement mandatory early childhood education. With
-                                       such rules, many preschool and kindergarten learning centers are built.</p>
+                                    <p>- Groupes de répétitions orientés vers les examens : 
+                                     en travaillant sur les compétences nécessaires pour réussir les différentes
+                                     sections de l'examen (compréhension écrite, expression écrite, etc.). <br>
+                                     Groupes de répétitions par niveau de langue : permettant ainsi des interactions et des activités
+                                      adaptées au niveau linguistique de chacun</p>
                                  </div>
                               </div>
                            </div>
@@ -665,8 +666,7 @@
                               <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                                  data-bs-parent="#accordionExample">
                                  <div class="accordion-body">
-                                    <p>Right after you book your party, you’ll receive an email confirming the date,
-                                       time, and details about what’s included in the package you’ve selected result.
+                                    <p>Kangourou ouvre ses porte de lundi à samedi pour une duré de 5 heures par sessions.
                                     </p>
                                  </div>
                               </div>
@@ -681,8 +681,8 @@
                               <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                                  data-bs-parent="#accordionExample">
                                  <div class="accordion-body">
-                                    <p>There will also be some fantastic outdoor entertainment, desserts and drinks,
-                                       plus tours of the School for those who want to continue the celebrations.</p>
+                                    <p>nos tarif dependront du niveaux de l'eleve et les modalité de payement sont disponible
+                                       dans nos locaux .</p>
                                  </div>
                               </div>
                            </div>
@@ -757,9 +757,8 @@
                <div class="col-lg-8">
                   <div class="bd-section-title-wrapper text-center mb-55 wow fadeInUp" data-wow-duration="1s"
                      data-wow-delay=".3s">
-                     <h2 class="bd-section-title mb-0">Our Best Teachers</h2>
-                     <p>With the help of teachers and the environment as the third teacher, students<br> have
-                        opportunities to confidently take risks.</p>
+                     <h2 class="bd-section-title mb-0">Nos différents professeurs</h2>
+                     <p>Ces enseignants auront pour mission d'encadrer et de motiver les apprenants durant tout leur parcours scolaire en toute confiance..</p>
                   </div>
                </div>
             </div>
@@ -772,13 +771,13 @@
                            <div class="bd-teacher">
                               <a href="teacher-details.html">
                                  <div class="bd-teacher-thumb">
-                                    <img src="assets/img/teacher/5.jpg" alt="Image not found">
+                                    <img src="assets/img/teacher/pexels-photo-935943.jpeg" alt="Image not found">
                                  </div>
                               </a>
                               <div class="bd-teacher-content-wrapper">
                                  <div class="bd-teacher-content">
-                                    <h4 class="bd-teacher-title"><a href="teacher-details.html">Emmy Jonas</a></h4>
-                                    <span class="bd-teacher-des">Teacher</span>
+                                    <h4 class="bd-teacher-title"><a href="teacher-details.html"> EMILIE KAMBA</a></h4>
+                                    <span class="bd-teacher-des">professeur des sciences</span>
                                  </div>
                                  <div class="bd-teacher-social">
                                     <ul>
@@ -803,13 +802,13 @@
                            <div class="bd-teacher">
                               <a href="teacher-details.html">
                                  <div class="bd-teacher-thumb">
-                                    <img src="assets/img/teacher/3.jpg" alt="Image not found">
+                                    <img src="assets/img/teacher/istockphoto-1283314884-612x612.jpg" alt="Image not found">
                                  </div>
                               </a>
                               <div class="bd-teacher-content-wrapper">
                                  <div class="bd-teacher-content">
-                                    <h4 class="bd-teacher-title"><a href="teacher-details.html">Frances R.</a></h4>
-                                    <span class="bd-teacher-des">Teacher</span>
+                                    <h4 class="bd-teacher-title"><a href="teacher-details.html">ROMUAL CELESTIN.</a></h4>
+                                    <span class="bd-teacher-des">professeur de mathematiques</span>
                                  </div>
                                  <div class="bd-teacher-social">
                                     <ul>
@@ -834,13 +833,13 @@
                            <div class="bd-teacher">
                               <a href="teacher-details.html">
                                  <div class="bd-teacher-thumb">
-                                    <img src="assets/img/teacher/7.jpg" alt="Image not found">
+                                    <img src="assets/img/teacher/pexels-photo-5905923.webp" alt="Image not found">
                                  </div>
                               </a>
                               <div class="bd-teacher-content-wrapper">
                                  <div class="bd-teacher-content">
                                     <h4 class="bd-teacher-title"><a href="teacher-details.html">Cecelia D.</a></h4>
-                                    <span class="bd-teacher-des">Teacher</span>
+                                    <span class="bd-teacher-des">professeur d'informatiques</span>
                                  </div>
                                  <div class="bd-teacher-social">
                                     <ul>
@@ -871,7 +870,7 @@
                               <div class="bd-teacher-content-wrapper">
                                  <div class="bd-teacher-content">
                                     <h4 class="bd-teacher-title"><a href="teacher-details.html">Olinda L.</a></h4>
-                                    <span class="bd-teacher-des">Teacher</span>
+                                    <span class="bd-teacher-des">professeur de geographie</span>
                                  </div>
                                  <div class="bd-teacher-social">
                                     <ul>
@@ -918,7 +917,7 @@
                   <div class="bd-testimonial-wrapper pt-120 pb-120">
                      <div class="bd-section-title-wrapper is-white mb-20 wow fadeInUp" data-wow-duration="1s"
                         data-wow-delay=".3s">
-                        <h2 class="bd-section-title mb-0">Parents Says</h2>
+                        <h2 class="bd-section-title mb-0">Commentaire de nos clients</h2>
                      </div>
                      <div class="bd-testimonial-active swiper-container wow fadeInUp" data-wow-duration="1s"
                         data-wow-delay=".5s">
@@ -933,8 +932,10 @@
                                     <a href="#"><i class="fas fa-star"></i></a>
                                  </div>
                                  <div class="bd-testimonial-content mb-55">
-                                    <p>Happy Christmas to the whole Kindedo from everyone at Monkton. A big thank you to
-                                       Kindedo pupil Will who lent his Kindedo to this card. </p>
+                                    <p>Grace a Kangourou, j'ai mon fils qui fait la classe de 3eme , au debut sont 
+                                       niveaux d'etude etait tres bas mais apres avoir appeller kangourou 
+                                       mes attentes et mes besoins ont ete comblé, mon fils a eu valider son examen avec 
+                                       mention bien . </p>
 
                                  </div>
                                  <div class="bd-testimonial-avatar d-flex align-items-center">
@@ -959,8 +960,9 @@
                                     <a href="#"><i class="fas fa-star"></i></a>
                                  </div>
                                  <div class="bd-testimonial-content mb-55">
-                                    <p>Your child will laugh, play and explore at Summer at MLS. From soccer, water
-                                       play, art, music, theater and science, Shabbat celebrations, cooking.</p>
+                                    <p>J'ai beaucoup apprécié l'engagement et la collaboration remarquables que 
+                                       j'ai observés au sein de KANGOUROU vis a vis de mon enfant. <br>
+                                    merci Kangourou</p>
 
                                  </div>
                                  <div class="bd-testimonial-avatar d-flex align-items-center">
@@ -985,8 +987,8 @@
                                     <a href="#"><i class="fas fa-star"></i></a>
                                  </div>
                                  <div class="bd-testimonial-content mb-55">
-                                    <p>The unique Mentone Grammar Community is our point of difference compared to many
-                                       in the industry. The School often talks about the concept.
+                                    <p>C'est impressionnant de voir à quel point mon enfant a  progressé !
+                                        Je suis vraiment fier de ce que vous avez accompli. </p>
                                  </div>
                                  <div class="bd-testimonial-avatar d-flex align-items-center">
                                     <div class="bd-testimonial-avatar-thumb">
@@ -1020,10 +1022,8 @@
                   <div class="col-lg-6">
                      <div class="bd-section-title-wrapper mb-0 wow fadeInLeft" data-wow-duration="1s"
                         data-wow-delay=".3s">
-                        <h2 class="bd-section-title mb-0">Kindedo News</h2>
-                        <p>It is our goal to provide age appropriate opportuniy for every child enrolled in Kindedo Kids
-                           Club
-                           enrichment classes.</p>
+                        <h2 class="bd-section-title mb-0">Mission de Kangourou</h2>
+                        <p>Notre mission est d'aider chaque enfant à surmonter ses difficultés académiques et à réaliser son plein potentiel grâce à un accompagnement individualisé à domicile.</p>
                      </div>
                   </div>
                   <div class="col-lg-6">
@@ -1051,17 +1051,14 @@
                               </a>
                               <div class="bd-blog-content">
                                  <div class="bd-blog-date">
-                                    <span>22 Jan 2022</span>
+                                    <span>22 Janvier 2022</span>
                                  </div>
                                  <div class="bd-blog-meta">
                                     <span><i class="fas fa-user"></i> by <a href="news.html">Alex</a></span>
-                                    <span><i class="fa-solid fa-comment-dots"></i><a href="news-details.html">0
+                                    <span><i class="fa-solid fa-comment-dots"></i><a href="news-details.html">1.5k
                                           Comments</a></span>
                                  </div>
-                                 <h4 class="bd-blog-title"><a href="news-details.html">Tips to Understand Your Child
-                                       Better -
-                                       A
-                                       Guide for Parents!</a></h4>
+                                 <h4 class="bd-blog-title"><a href="news-details.html">Comment elaborer son plan d'etude pour chaque examen!</a></h4>
                               </div>
                            </div>
                         </div>
@@ -1074,15 +1071,14 @@
                               </a>
                               <div class="bd-blog-content">
                                  <div class="bd-blog-date">
-                                    <span>22 Nov 2022</span>
+                                    <span>22 Novembre 2022</span>
                                  </div>
                                  <div class="bd-blog-meta">
                                     <span><i class="fas fa-user"></i> by <a href="news.html">Alex</a></span>
-                                    <span><i class="fa-solid fa-comment-dots"></i><a href="news-details.html">04
+                                    <span><i class="fa-solid fa-comment-dots"></i><a href="news-details.html">4.2k
                                           Comments</a></span>
                                  </div>
-                                 <h4 class="bd-blog-title"><a href="news-details.html">Why Toys for Preschoolers are
-                                       Important - a small ready setup</a></h4>
+                                 <h4 class="bd-blog-title"><a href="news-details.html">comment organiser son temps</a></h4>
                               </div>
                            </div>
                         </div>
@@ -1095,15 +1091,14 @@
                               </a>
                               <div class="bd-blog-content">
                                  <div class="bd-blog-date">
-                                    <span>22 Dec 2022</span>
+                                    <span>22 Decembre 2022</span>
                                  </div>
                                  <div class="bd-blog-meta">
                                     <span><i class="fas fa-user"></i> by <a href="news.html">Alex</a></span>
-                                    <span><i class="fa-solid fa-comment-dots"></i><a href="news-details.html">02
+                                    <span><i class="fa-solid fa-comment-dots"></i><a href="news-details.html">2.4k
                                           Comments</a></span>
                                  </div>
-                                 <h4 class="bd-blog-title"><a href="news-details.html">Which Toys are Best for Preschool
-                                       Kids in USA: A Quick Guide
+                                 <h4 class="bd-blog-title"><a href="news-details.html">Comment avoir un équilibre sain entre études, loisirs et repos
                                     </a></h4>
                               </div>
                            </div>
@@ -1125,19 +1120,19 @@
                   <div class="col-xl-8 col-lg-10">
                      <div class="bd-newsletter-content">
                         <div class="bd-section-title-wrapper text-center is-white mb-45">
-                           <h2 class="bd-section-title mb-0">Join Our Newsletter</h2>
-                           <p>Subscribe our newsletter to get our latest update & news.</p>
+                           <h2 class="bd-section-title mb-0">Rejoignez Kangourou</h2>
+                           <p>Abonnez-vous à notre Kangourou pour recevoir nos dernières mises à jour et actualités.</p>
                         </div>
                         <div class="bd-newsletter-form">
                            <form action="#">
                               <div class="bd-newsletter-input">
-                                 <input type="text" placeholder="your email">
+                                 <input type="text" placeholder="Votre email">
                                  <button type="submit" class="bd-btn">
                                     <span class="bd-btn-inner">
                                        <span class="bd-btn-normal"><i
-                                             class="fa-sharp fa-solid fa-paper-plane"></i>Subscribe now</span>
+                                             class="fa-sharp fa-solid fa-paper-plane"></i>Appelez maintenant</span>
                                        <span class="bd-btn-hover"><i
-                                             class="fa-sharp fa-solid fa-paper-plane"></i>Subscribe now</span>
+                                             class="fa-sharp fa-solid fa-paper-plane"></i>Appelez maintenant</span>
                                     </span>
                                  </button>
                               </div>
@@ -1182,7 +1177,7 @@
             </div>
             <div class="mobile-menu fix mt-40"></div>
             <div class="offcanvas__about d-none d-lg-block mt-30 mb-30">
-               <h4>About Kindedo</h4>
+               <h4> À Ppropos de KANGOUROU</h4>
                <p>With the help of teachers and environment as the third teacher, students
                   have opportunities to confidently take risks.</p>
             </div>
