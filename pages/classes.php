@@ -103,7 +103,7 @@
                   <div class="bd-class-3 fix radius-24 p-relative mb-50 wow fadeInUp" data-wow-duration="1s"
                      data-wow-delay=".3s">
                      <div class="bd-class-thumb">
-                        <img src="assets/img/class/6.jpg" alt="class image not found!">
+                        <img src="assets/img/class/Annotation 2024-07-18 124521.png" alt="class image not found!">
                      </div>
                      <div class="bd-class-content-3 theme-bg-6 ">
                         <h3 class="bd-class-title-3"><a href="class-details.html"> SIL jusqu'au CM2</a></h3>
@@ -133,7 +133,7 @@
                   <div class="bd-class-3 fix radius-24 p-relative mb-50 wow fadeInUp" data-wow-duration="1s"
                      data-wow-delay=".3s">
                      <div class="bd-class-thumb">
-                        <img src="assets/img/class/5.jpg" alt="class image not found!">
+                        <img src="assets/img/class/WhatsApp Image 2024-07-18 à 13.12.26_d9090c70.jpg" alt="class image not found!">
                      </div>
                      <div class="bd-class-content-3 theme-bg-6 ">
                         <h3 class="bd-class-title-3"><a href="class-details.html">6eme et 5eme</a></h3>
@@ -163,7 +163,7 @@
                   <div class="bd-class-3 fix radius-24 p-relative mb-50 wow fadeInUp" data-wow-duration="1s"
                      data-wow-delay=".3s">
                      <div class="bd-class-thumb">
-                        <img src="assets/img/class/4.jpg" alt="class image not found!">
+                        <img src="assets/img/class/WhatsApp Image 2024-07-18 à 13.12.32_d782e12c.jpg" alt="class image not found!">
                      </div>
                      <div class="bd-class-content-3 theme-bg-6">
                         <h3 class="bd-class-title-3"><a href="class-details.html">4eme et 3eme</a></h3>
@@ -193,7 +193,7 @@
                   <div class="bd-class-3 fix radius-24 p-relative mb-50 wow fadeInUp" data-wow-duration="1s"
                      data-wow-delay=".3s">
                      <div class="bd-class-thumb">
-                        <img src="assets/img/class/3.jpg" alt="class image not found!">
+                        <img src="assets/img/class/Annotation 2024-07-18 110443.png" alt="class image not found!">
                      </div>
                      <div class="bd-class-content-3 theme-bg-6 ">
                         <h3 class="bd-class-title-3"><a href="class-details.html">2nd</a></h3>
@@ -223,7 +223,7 @@
                   <div class="bd-class-3 fix radius-24 p-relative mb-50 wow fadeInUp" data-wow-duration="1s"
                      data-wow-delay=".3s">
                      <div class="bd-class-thumb">
-                        <img src="assets/img/class/1.jpg" alt="class image not found!">
+                        <img src="assets/img/class/Annotation 2024-07-18 110747.png" alt="class image not found!">
                      </div>
                      <div class="bd-class-content-3 theme-bg-6 ">
                         <h3 class="bd-class-title-3"><a href="class-details.html">1ere</a></h3>
@@ -253,7 +253,7 @@
                   <div class="bd-class-3 fix radius-24 p-relative mb-50 wow fadeInUp" data-wow-duration="1s"
                      data-wow-delay=".3s">
                      <div class="bd-class-thumb">
-                        <img src="assets/img/class/2.jpg" alt="class image not found!">
+                        <img src="assets/img/class/Annotation 2024-07-18 110928.png" alt="class image not found!">
                      </div>
                      <div class="bd-class-content-3 theme-bg-6 ">
                         <h3 class="bd-class-title-3"><a href="class-details.html">Tle</a></h3>
@@ -321,7 +321,7 @@
                               </div>
                               <div class="bd-testimonial-avatar d-flex align-items-center">
                                  <div class="bd-testimonial-avatar-thumb">
-                                    <img src="assets/img/testimonials/1.png" alt="testimonial avatar">
+                                    <img src="assets/img/testimonials/Annotation 2024-07-18 111339.png" alt="testimonial avatar">
                                  </div>
                                  <h6 class="bd-testimonial-avatar-title-2 mb-0">Norma J. Johnston</h6>
                                  <div class="bd-testimonial-quote d-none d-sm-block clr-2">
@@ -348,7 +348,7 @@
                               </div>
                               <div class="bd-testimonial-avatar d-flex align-items-center">
                                  <div class="bd-testimonial-avatar-thumb">
-                                    <img src="assets/img/testimonials/2.png" alt="testimonial avatar">
+                                    <img src="assets/img/testimonials/Annotation 2024-07-18 101155.png" alt="testimonial avatar">
                                  </div>
                                  <h6 class="bd-testimonial-avatar-title-2 mb-0">Robert M. Allen</h6>
                                  <div class="bd-testimonial-quote d-none d-sm-block clr-1">
@@ -408,7 +408,7 @@
                      data-wow-delay=".3s">
                      <div class="bd-promotion-thumb">
                         <div class="bd-promotion-thumb-mask p-relative">
-                           <img src="assets/img/promotion/3.jpg" alt="Image not found">
+                           <img src="assets/img/promotion/Annotation 2024-07-18 101508.png" alt="Image not found">
                            <div class="panel-2 wow"></div>
                         </div>
                      </div>
