@@ -159,36 +159,7 @@
                      </div>
                   </div>
                </div>
-               <div class="col-xl-4 col-lg-6 col-md-6">
-                  <div class="bd-class-3 fix radius-24 p-relative mb-50 wow fadeInUp" data-wow-duration="1s"
-                     data-wow-delay=".3s">
-                     <div class="bd-class-thumb">
-                        <img src="assets/img/class/4.jpg" alt="class image not found!">
-                     </div>
-                     <div class="bd-class-content-3 theme-bg-6">
-                        <h3 class="bd-class-title-3"><a href="class-details.html">Drawing Class</a></h3>
-                        <p class="mb-20">Each day at Mother’s Pride is a cele bration! We celebrate all.</p>
-                        <div class="bd-class-meta-wrapper d-flex justify-content-between align-items-center flex-wrap">
-                           <div class="bd-class-meta d-flex align-items-center flex-wrap">
-                              <div class="bd-class-meta-thumb">
-                                 <a href="teacher-details.html">
-                                    <img src="assets/img/teacher/small-1.png" alt="image not found!">
-                                 </a>
-                              </div>
-                              <span><a href="teacher-details.html">Alexia Honix</a></span>
-                           </div>
-                           <div class="bd-class-meta">
-                              <div class="bd-class-meta-price">
-                                 <span>$190/</span>month
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="bd-class-btn-3 theme-bg-2 text-center">
-                        <a href="class-details.html">Join Now</a>
-                     </div>
-                  </div>
-               </div>
+               
                <div class="col-xl-4 col-lg-6 col-md-6">
                   <div class="bd-class-3 fix radius-24 p-relative mb-50 wow fadeInUp" data-wow-duration="1s"
                      data-wow-delay=".3s">
@@ -219,36 +190,7 @@
                      </div>
                   </div>
                </div>
-               <div class="col-xl-4 col-lg-6 col-md-6">
-                  <div class="bd-class-3 fix radius-24 p-relative mb-50 wow fadeInUp" data-wow-duration="1s"
-                     data-wow-delay=".3s">
-                     <div class="bd-class-thumb">
-                        <img src="assets/img/class/1.jpg" alt="class image not found!">
-                     </div>
-                     <div class="bd-class-content-3 theme-bg-6 ">
-                        <h3 class="bd-class-title-3"><a href="class-details.html">Hospitality Class</a></h3>
-                        <p class="mb-20">Each day at Mother’s Pride is a cele bration! We celebrate all.</p>
-                        <div class="bd-class-meta-wrapper d-flex justify-content-between align-items-center flex-wrap">
-                           <div class="bd-class-meta d-flex align-items-center flex-wrap">
-                              <div class="bd-class-meta-thumb">
-                                 <a href="teacher-details.html">
-                                    <img src="assets/img/teacher/small-1.png" alt="image not found!">
-                                 </a>
-                              </div>
-                              <span><a href="teacher-details.html">Alexia Honix</a></span>
-                           </div>
-                           <div class="bd-class-meta">
-                              <div class="bd-class-meta-price">
-                                 <span>$190/</span>month
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="bd-class-btn-3 theme-bg-2 text-center">
-                        <a href="class-details.html">Join Now</a>
-                     </div>
-                  </div>
-               </div>
+               
                <div class="col-xl-4 col-lg-6 col-md-6">
                   <div class="bd-class-3 fix radius-24 p-relative mb-50 wow fadeInUp" data-wow-duration="1s"
                      data-wow-delay=".3s">

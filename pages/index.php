@@ -100,7 +100,7 @@
                            </div>
                         </div>
                         <div class="bd-hero-2">
-                           <div class="bd-hero-bg" data-background="assets/img/hero/slider-3.jpg"></div>
+                           <div class="bd-hero-bg" data-background="assets/img/hero/study-group-african-people.jpg"></div>
                            <div class="row">
                               <div class="col-lg-6">
                                  <div class="bd-hero-content-wrapper-2 d-flex align-items-center">
@@ -141,7 +141,7 @@
                            </div>
                         </div>
                         <div class="bd-hero-2">
-                           <div class="bd-hero-bg" data-background="assets/img/hero/slider-2.jpg"></div>
+                           <div class="bd-hero-bg" data-background="assets/img/hero/nom.jpg"></div>
                            <div class="row">
                               <div class="col-lg-6">
                                  <div class="bd-hero-content-wrapper-2 d-flex align-items-center">
@@ -182,7 +182,7 @@
                            </div>
                         </div>
                         <div class="bd-hero-2">
-                           <div class="bd-hero-bg" data-background="assets/img/hero/slider-1.jpg"></div>
+                           <div class="bd-hero-bg" data-background="assets/img/hero/african-woman-teaching-children-class.jpg"></div>
                            <div class="row">
                               <div class="col-lg-6">
                                  <div class="bd-hero-content-wrapper-2 d-flex align-items-center">
@@ -642,17 +642,18 @@
                               <h2 class="accordion-header" id="headingOne">
                                  <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    Quels types de groupes de repetitions  nous allons proposer aux élèves ? 
+                                    Quelles sont les spécificités de notre service par rapport à la concurrence ? 
                                  </button>
                               </h2>
                               <div id="collapseOne" class="accordion-collapse collapse show"
                                  aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                  <div class="accordion-body">
-                                    <p>- Groupes de répétitions orientés vers les examens : 
-                                     en travaillant sur les compétences nécessaires pour réussir les différentes
-                                     sections de l'examen (compréhension écrite, expression écrite, etc.). <br>
-                                     Groupes de répétitions par niveau de langue : permettant ainsi des interactions et des activités
-                                      adaptées au niveau linguistique de chacun</p>
+                                    <p>Voici quelques points sur lesquels KANGOUROU porte son attention :
+
+    Des services minutieux pour la progression académique de chacun de nos élèves, qui constituent une part importante de notre travail.
+    Un choix délicat, fait de manière méthodique et sélective, de chaque professeur particulier que nous mettons à la disposition des parents.
+    La vision que nous avons de l'éducation, bien que nécessaire, ne se limite pas uniquement à former des "premiers de la classe". Nous ambitionnons de forger la personnalité de leader de nos élèves,
+     raison pour laquelle nous mettons à leur disposition des ateliers pluridisciplinaires.</p>
                                  </div>
                               </div>
                            </div>
@@ -660,13 +661,14 @@
                               <h2 class="accordion-header" id="headingTwo">
                                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    Quels seront les horaires et la durée des sessions de répétitions ?
+                                    Qui sont les professeurs particuliers de KANGOUROU ?
                                  </button>
                               </h2>
                               <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                                  data-bs-parent="#accordionExample">
                                  <div class="accordion-body">
-                                    <p>Kangourou ouvre ses porte de lundi à samedi pour une duré de 5 heures par sessions.
+                                    <p>L'équipe de professeurs chez KANGOUROU est constituée majoritairement des meilleurs étudiants régulièrement inscrits dans leurs différentes universités d'État et écoles privées du pays. Nous avons effectué ce choix pour de multiples raisons : ils sont remplis de vigueur et de motivation."
+Étant de brillants étudiants, ils maîtrisent les techniques d'assimilation des notions jugées difficiles par les élèves. Ils disposeront d'un emploi du temps flexible selon les situations.
                                     </p>
                                  </div>
                               </div>
@@ -675,14 +677,20 @@
                               <h2 class="accordion-header" id="headingThree">
                                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Quels seront les tarifs et les modalités de paiement pour les élèves 
+                                    À combien s'élèvent les mensualités chez KANGOUROU ? 
                                  </button>
                               </h2>
                               <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                                  data-bs-parent="#accordionExample">
                                  <div class="accordion-body">
-                                    <p>nos tarif dependront du niveaux de l'eleve et les modalité de payement sont disponible
-                                       dans nos locaux .</p>
+                                    <p>La rémunération des services qu'offre KANGOUROU en ce qui concerne le soutien scolaire à domicile dépend de plusieurs facteurs :
+
+    La distance séparant le professeur particulier du domicile de l'élève (nous nous efforcerons de vous proposer celui le moins éloigné).
+    Les matières nécessitant un accompagnement supplémentaire et le nombre de professeurs affectés à cette tâche.
+    La classe de l'élève.
+    Le nombre de cours dans la semaine.
+
+Pour plus de détails, veuillez contacter le numéro suivant : 656097046."</p>
                                  </div>
                               </div>
                            </div>
@@ -695,7 +703,7 @@
                      <div class="bd-faq-thumb">
                         <div class="bd-faq-thumb-mask p-relative wow fadeInRight" data-wow-duration="1s"
                            data-wow-delay=".3s">
-                           <img src="assets/img/faq/1.jpg" alt="Image not found">
+                           <img src="assets/img/faq/student1.jpg" alt="Image not found">
                            <div class="panel-2 wow"></div>
                         </div>
                      </div>
@@ -712,7 +720,7 @@
       <!-- joining area start here  -->
       <section class="bd-joining-area pt-100 pb-100">
          <!-- joiniong bg -->
-         <div class="bd-joining-bg" data-background="assets/img/bg/joining-area.png"></div>
+         <div class="bd-joining-bg" data-background="assets/img/bg/group-running-joyful-african-children_132358-49935.jpg"></div>
          <!-- joining bg overlay -->
          <div class="bd-joining-bg-overlay"></div>
          <div class="container">
@@ -904,9 +912,9 @@
 
       <!-- testimonial area start here  -->
       <section class="bd-testimonial-area theme-bg">
-         <div class="bd-testimonial-video" data-background="assets/img/bg/testimonail-bg.png">
+         <div class="bd-testimonial-video" data-background="assets/img/bg/vid1.jpg" style="background-repeat: no-repeat; background-size: cover;">
             <div class="bd-testimonial-video-btn bd-pulse-btn">
-               <a href="https://www.youtube.com/watch?v=INY3ETimTjg" class="popup-video"><i
+               <a href="https://www.youtube.com/watch?v=l-p3GhLLDjY" class="popup-video"><i
                      class="flaticon-play-button"></i></a>
             </div>
          </div>
@@ -932,10 +940,7 @@
                                     <a href="#"><i class="fas fa-star"></i></a>
                                  </div>
                                  <div class="bd-testimonial-content mb-55">
-                                    <p>Grace a Kangourou, j'ai mon fils qui fait la classe de 3eme , au debut sont 
-                                       niveaux d'etude etait tres bas mais apres avoir appeller kangourou 
-                                       mes attentes et mes besoins ont ete comblé, mon fils a eu valider son examen avec 
-                                       mention bien . </p>
+                                    <p>Merci infiniment à toute l'équipe KANGOUROU ! Un grand bravo à son professeur à domicile ! Grâce à votre suivi attentif, mon enfant a fait des progrès et reprend confiance en ses capacités. Vous êtes formidables !. </p>
 
                                  </div>
                                  <div class="bd-testimonial-avatar d-flex align-items-center">
@@ -960,9 +965,7 @@
                                     <a href="#"><i class="fas fa-star"></i></a>
                                  </div>
                                  <div class="bd-testimonial-content mb-55">
-                                    <p>J'ai beaucoup apprécié l'engagement et la collaboration remarquables que 
-                                       j'ai observés au sein de KANGOUROU vis a vis de mon enfant. <br>
-                                    merci Kangourou</p>
+                                    <p> Je ne peux que remercier grandement Kangourou pour l'aide précieuse apportée à ma fille en classe de quatrième. Les enseignants sont ponctuels et dévoués, et cela se voit dans les résultats. Continuez ainsi ! Peut-être pourriez-vous organiser des ateliers de motivation ou de révisions collectives pour encourager les élèves à se surpasser.</p>
 
                                  </div>
                                  <div class="bd-testimonial-avatar d-flex align-items-center">
@@ -987,8 +990,7 @@
                                     <a href="#"><i class="fas fa-star"></i></a>
                                  </div>
                                  <div class="bd-testimonial-content mb-55">
-                                    <p>C'est impressionnant de voir à quel point mon enfant a  progressé !
-                                        Je suis vraiment fier de ce que vous avez accompli. </p>
+                                    <p> KANGOUROU a fait une vraie différence dans la vie de mon fils. Les professeurs sont passionnés, dévoués et ponctuels. Merci à toute l'équipe pour votre excellent travail !. </p>
                                  </div>
                                  <div class="bd-testimonial-avatar d-flex align-items-center">
                                     <div class="bd-testimonial-avatar-thumb">

@@ -193,7 +193,7 @@
                   <div class="bd-class-3 fix radius-24 p-relative mb-50 wow fadeInUp" data-wow-duration="1s"
                      data-wow-delay=".3s">
                      <div class="bd-class-thumb">
-                        <img src="assets/img/class/Annotation 2024-07-18 110443.png" alt="class image not found!">
+                        <img src="assets/img/class/portrait-young-african-boy.jpg" alt="class image not found!">
                      </div>
                      <div class="bd-class-content-3 theme-bg-6 ">
                         <h3 class="bd-class-title-3"><a href="class-details.html">2nd</a></h3>
@@ -223,7 +223,7 @@
                   <div class="bd-class-3 fix radius-24 p-relative mb-50 wow fadeInUp" data-wow-duration="1s"
                      data-wow-delay=".3s">
                      <div class="bd-class-thumb">
-                        <img src="assets/img/class/Annotation 2024-07-18 110747.png" alt="class image not found!">
+                        <img src="assets/img/class/school-boy-crossing-his-fingers.jpg" alt="class image not found!">
                      </div>
                      <div class="bd-class-content-3 theme-bg-6 ">
                         <h3 class="bd-class-title-3"><a href="class-details.html">1ere</a></h3>
@@ -315,15 +315,13 @@
                                  <a href="#"><i class="fas fa-star"></i></a>
                               </div>
                               <div class="bd-testimonial-content-2 mb-35">
-                                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in
-                                    hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur,
-                                    ultrices mauris.</p>
+                                 <p>Je suis vraiment reconnaissant pour le soutien exceptionnel que vous offrez. Le professionnalisme des professeurs de KANGOUROU est à féliciter ! Une suggestion serait de proposer des rapports plus détaillés pour mieux suivre les progrès de nos enfants.</p>
                               </div>
                               <div class="bd-testimonial-avatar d-flex align-items-center">
                                  <div class="bd-testimonial-avatar-thumb">
-                                    <img src="assets/img/testimonials/Annotation 2024-07-18 111339.png" alt="testimonial avatar">
+                                    <img src="assets/img/testimonials/vo.jpg" alt="testimonial avatar">
                                  </div>
-                                 <h6 class="bd-testimonial-avatar-title-2 mb-0">Norma J. Johnston</h6>
+                                 <h6 class="bd-testimonial-avatar-title-2 mb-0">M.charles</h6>
                                  <div class="bd-testimonial-quote d-none d-sm-block clr-2">
                                     <i class="flaticon-quote"></i>
                                  </div>
@@ -340,17 +338,14 @@
                                  <a href="#"><i class="fas fa-star"></i></a>
                               </div>
                               <div class="bd-testimonial-content-2 mb-35">
-                                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in
-                                    hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula
-                                    consectetur,
-                                    ultrices mauris.</p>
+                                 <p>Je tiens à remercier chaleureusement l'équipe de Kangourou pour leur engagement et leur patience. Ma fille se sent vraiment motivée et soutenue grâce à vous. Merci pour tout.</p>
 
                               </div>
                               <div class="bd-testimonial-avatar d-flex align-items-center">
                                  <div class="bd-testimonial-avatar-thumb">
                                     <img src="assets/img/testimonials/Annotation 2024-07-18 101155.png" alt="testimonial avatar">
                                  </div>
-                                 <h6 class="bd-testimonial-avatar-title-2 mb-0">Robert M. Allen</h6>
+                                 <h6 class="bd-testimonial-avatar-title-2 mb-0">Mme Ngo hum</h6>
                                  <div class="bd-testimonial-quote d-none d-sm-block clr-1">
                                     <i class="flaticon-quote"></i>
                                  </div>
@@ -432,19 +427,19 @@
                   <div class="col-xl-8 col-lg-10">
                      <div class="bd-newsletter-content">
                         <div class="bd-section-title-wrapper text-center is-white mb-45">
-                           <h2 class="bd-section-title mb-0">Join Our Newsletter</h2>
-                           <p>Subscribe our newsletter to get our latest update & news.</p>
+                           <h2 class="bd-section-title mb-0">Rejoindre Kangourou</h2>
+                           <p>"Abonnez-vous à Kangourou pour recevoir nos dernières mises à jour et actualités.</p>
                         </div>
                         <div class="bd-newsletter-form">
                            <form action="#">
                               <div class="bd-newsletter-input">
-                                 <input type="text" placeholder="your email">
+                                 <input type="text" placeholder="ton email">
                                  <button type="submit" class="bd-btn">
                                     <span class="bd-btn-inner">
                                        <span class="bd-btn-normal"><i
-                                             class="fa-sharp fa-solid fa-paper-plane"></i>Subscribe now</span>
+                                             class="fa-sharp fa-solid fa-paper-plane"></i>Souscrire maintenant</span>
                                        <span class="bd-btn-hover"><i
-                                             class="fa-sharp fa-solid fa-paper-plane"></i>Subscribe now</span>
+                                             class="fa-sharp fa-solid fa-paper-plane"></i>Souscrire maintenant</span>
                                     </span>
                                  </button>
                               </div>
